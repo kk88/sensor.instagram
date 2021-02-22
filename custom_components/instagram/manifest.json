@@ -1,0 +1,10 @@
+{
+    "domain": "instagram",
+    "name": "Instagram",
+    "documentation": "https://github.com/hudsonbrendon/instagram",
+    "dependencies": [],
+    "codeowners": [
+      "@hudsonbrendon"
+    ],
+    "requirements": []
+  }
