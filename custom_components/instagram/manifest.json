@@ -1,7 +1,7 @@
 {
     "domain": "instagram",
     "name": "Instagram",
-    "documentation": "https://github.com/hudsonbrendon/instagram",
+    "documentation": "https://github.com/hudsonbrendon/sensor.instagram",
     "dependencies": [],
     "codeowners": [
       "@hudsonbrendon"
