@@ -2,6 +2,8 @@
 
 # Instagram Sensor Component
 
+![logo.jpg](logo.png)
+
 Custom component to get full name, posts, followers, following from Instagram for Home Assistant
 
 # Installation
