@@ -1,6 +1,4 @@
-![hacs_badge](https://img.shields.io/badge/hacs-custom-orange.svg)
-
-[![BuyMeCoffee][buymecoffeebedge]][buymecoffee]
+![hacs_badge](https://img.shields.io/badge/hacs-custom-orange.svg) [![BuyMeCoffee][buymecoffeebedge]][buymecoffee]
 
 # Instagram Sensor Component
 
