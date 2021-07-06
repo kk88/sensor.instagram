@@ -3,6 +3,7 @@
     "name": "Instagram",
     "documentation": "https://github.com/hudsonbrendon/sensor.instagram",
     "dependencies": [],
+    "version": "1.0.2",
     "codeowners": [
       "@hudsonbrendon"
     ],
